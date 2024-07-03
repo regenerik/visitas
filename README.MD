@@ -1,7 +1,7 @@
 Generador de visitas V 1.1.1
 
-- generador de visitas 2 > Genera vuelta a punto cero ( obelisco ) cada dia despues de las 2 visitas.
-- generador de visitas 3 > Genera vuelta a punto cero ( obelisco ) al finalizar la semana con las 8 visitas cumplidas
+- generador de visitas v1 > Genera vuelta a punto cero ( obelisco ) cada dia despues de las 2 visitas.
+- generador de visitas v2 > Genera vuelta a punto cero ( obelisco ) al finalizar la semana con las 8 visitas cumplidas
 solo al final de la semana. Si es a menos. aplica la vuelta diaria.
 
 - generador de visitas 4 > Falla en distribución de dias
@@ -18,7 +18,7 @@ solo al final de la semana. Si es a menos. aplica la vuelta diaria.
     - Con gitbash : git clone {pegar url previamente copiada}
     - abrir con vs code u otro
     - ejecutar pipenv install
-    - ejecutar python generador-visitas-2.py   / o generador-visitas-3.py
+    - ejecutar python generador-visitas-v1.py   / o generador-visitas-v2.py
 
 
 
