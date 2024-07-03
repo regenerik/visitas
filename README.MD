@@ -8,7 +8,7 @@ solo al final de la semana. Si es a menos. aplica la vuelta diaria.
 
 - NOTA IMPORTANTE:
 
-    El modelo se ejecuta por un algoritmo de aproximación por lo que NO ES EXACTO.
+    El modelo se ejecuta por un algoritmo de aproximación por lo que podria NO SER EXACTO. ( se tendria que validar )
     Nos enfrentamos al problema de TSP. (Traveling Salesman Problem)
     Este exige un número Exponencial de Soluciones: A medida que aumenta el número de puntos a visitar, el número de posibles rutas aumenta factorialmente. Por ejemplo, si hay 5 ciudades, hay 5! (factorial de 5) = 120 rutas posibles. Esto se vuelve rápidamente inmanejable para números grandes. EJ 139 DESTINOS EXPONENCIADOS.
 
